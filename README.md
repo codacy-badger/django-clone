@@ -13,7 +13,7 @@
 
 ## django-clone 
 
-Creating copies of a model instance on the fly with explicit declaration on how the instance should be cloned (limiting fields or related objects) copied and unique field detection. 
+Creating copies of a model instance with explicit control on how the instance should be duplicated (limiting fields or related objects) copied and unique field detection. 
 
 ## Table of contents
 
@@ -199,6 +199,10 @@ INSTALLED_APPS = [
     '...',
 ]
 ```
+
+### Found a Bug?
+To file a bug or submit a patch, please head over to [django-clone on github](https://github.com/jackton1/django-clone).
+
 
 ## Contributors ✨
 
